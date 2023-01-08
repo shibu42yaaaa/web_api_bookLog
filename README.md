@@ -40,4 +40,17 @@ GET https:;//api.example.com/booklog
 - Express
 - PISTMAN
 
+# 構築手順
+npm init
+
+デフォルト：index.js
+動画ではapp.jsに変更
+
+Expressのインストール
+npm install express --save
+
+expressの起動
+node ファイル名.js (この場合はindex.js)
+
+
 
